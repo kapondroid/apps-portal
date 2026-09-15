@@ -152,3 +152,4 @@ triplelift.com, 14716, RESELLER, 6c33edb13117fd86
 vidoomy.com, 8953515, RESELLER
 zetaglobal.net, 525, RESELLER
 bold-win.com, 1189, RESELLER, 71746737d0bab951
+facebook.com, 166693438410222, DIRECT, c3e20eee3f780d68
